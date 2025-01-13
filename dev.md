@@ -2,4 +2,4 @@
 
 some update
 
-update from gK
+update from gKraken
